@@ -1,0 +1,11 @@
+C:\Users\erdem\OneDrive\Masaüstü\udemy\çekiliş uygulaması\çekiliş uygulaması\obj\Debug\çekiliş uygulaması.csproj.AssemblyReference.cache
+C:\Users\erdem\OneDrive\Masaüstü\udemy\çekiliş uygulaması\çekiliş uygulaması\obj\Debug\çekiliş uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\erdem\OneDrive\Masaüstü\udemy\çekiliş uygulaması\çekiliş uygulaması\obj\Debug\çekiliş_uygulaması.Form1.resources
+C:\Users\erdem\OneDrive\Masaüstü\udemy\çekiliş uygulaması\çekiliş uygulaması\obj\Debug\çekiliş_uygulaması.Properties.Resources.resources
+C:\Users\erdem\OneDrive\Masaüstü\udemy\çekiliş uygulaması\çekiliş uygulaması\obj\Debug\çekiliş uygulaması.csproj.GenerateResource.cache
+C:\Users\erdem\OneDrive\Masaüstü\udemy\çekiliş uygulaması\çekiliş uygulaması\obj\Debug\çekiliş uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\erdem\OneDrive\Masaüstü\udemy\çekiliş uygulaması\çekiliş uygulaması\bin\Debug\çekiliş uygulaması.exe.config
+C:\Users\erdem\OneDrive\Masaüstü\udemy\çekiliş uygulaması\çekiliş uygulaması\bin\Debug\çekiliş uygulaması.exe
+C:\Users\erdem\OneDrive\Masaüstü\udemy\çekiliş uygulaması\çekiliş uygulaması\bin\Debug\çekiliş uygulaması.pdb
+C:\Users\erdem\OneDrive\Masaüstü\udemy\çekiliş uygulaması\çekiliş uygulaması\obj\Debug\çekiliş uygulaması.exe
+C:\Users\erdem\OneDrive\Masaüstü\udemy\çekiliş uygulaması\çekiliş uygulaması\obj\Debug\çekiliş uygulaması.pdb
